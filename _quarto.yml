@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Steffen Aasen"
+  navbar:
+    left:
+      - href: index.qmd
+      - about.qmd
+      - href: another.qmd
+  page-footer:
+    background: "orange"
+    left:
+      - "Testing"
+    right:
+      - "Testing 2"
+      - icon: github
+        href: https://github.com/a-asen
+
+format:
+  html:
+    theme:
+      dark: [darkly, theme-add.scss]
+    css: styles.css
+    toc: true
+
+
+
