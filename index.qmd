@@ -2,13 +2,10 @@
 title: "About me"
 ---
 
+Here I tell about me, very shortly? 
+
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
 
 # This is a title testing. 
 
