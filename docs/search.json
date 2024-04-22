@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "WElcome to this page"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Here I tell about me, very shortly?\nThis is a Quarto website."
+  },
+  {
+    "objectID": "index.html#this-is-h2",
+    "href": "index.html#this-is-h2",
+    "title": "About me",
+    "section": "this is H2",
+    "text": "this is H2\n\nThis is a h3"
+  },
+  {
+    "objectID": "other-work/index.html",
+    "href": "other-work/index.html",
+    "title": "Other works",
+    "section": "",
+    "text": "Created the logo for the Cognitive Neuroscience Research group at UiT The Arctic University of Norway."
+  }
+]

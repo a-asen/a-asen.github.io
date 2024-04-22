@@ -3,17 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Steffen Aasen"
+  title: "Steffen Rygg Aasen"
   navbar:
     left:
-      # - href: index.qmd
-        # text: void
-      - about.qmd
-      - href: another.qmd
+      - publications/index.qmd
+      - other-work/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/a-asen
   page-footer:
     background: "#4e2b86"
     left:
-      - "Testing"
+      - "Copyright 2024, Steffen Rygg Aasen"
     right:
       - "Text"
       - icon: github
@@ -22,8 +23,8 @@ website:
 format:
   html:
     theme:
-      dark: [darkly, theme-add.scss]
-    css: styles.css
+      dark: [darkly, themes/theme-dark-add.scss]
+      light: [flatly, themes/theme-light-add.scss]
     toc: true
 
 

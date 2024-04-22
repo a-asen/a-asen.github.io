@@ -1,0 +1,22 @@
+---
+title: "Other works"
+---
+
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![]("../pics/uit_cog-neuro_logo_960.png")
+::: 
+
+::: {.column width="70%"}
+- Created the [logo](https://uit.no/research/art?p_document_id=785027) for the [Cognitive Neuroscience Research group](https://uit.no/research/cognitive-neuroscience) at UiT The Arctic University of Norway.
+:::
+
+::::
+
+
+![]("uit_cog-neuro_logo_960.png")
+![]("../uit_cog-neuro_logo_960.png")
+![]("../pics/uit_cog-neuro_logo_960.png")
+
